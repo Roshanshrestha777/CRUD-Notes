@@ -1,0 +1,59 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+.task-form {
+  margin-top: 1rem;
+}
+
+#noteshead{
+  width: 80%;
+}
+
+#textnote
+{
+    height:200px;
+    font-size:14pt;
+    width: 80%;
+}
+
+#notearea{
+  background-color: #ffc;
+  height:200px;
+  width: 80%;
+}
+#addnote {
+  background-color: #4CAF50; /* Green ffc*/
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+}
+
+#edit{
+
+    background-color: #FFA500; 
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+  }
+
+
+  #delete{
+    background-color: #ff0000; 
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+  }
